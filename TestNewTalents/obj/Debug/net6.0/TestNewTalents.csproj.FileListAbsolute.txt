@@ -1,0 +1,6 @@
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\obj\Debug\net6.0\TestNewTalents.csproj.AssemblyReference.cache
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\obj\Debug\net6.0\TestNewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\obj\Debug\net6.0\TestNewTalents.AssemblyInfoInputs.cache
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\obj\Debug\net6.0\TestNewTalents.AssemblyInfo.cs
+C:\Users\devsf\source\repos\NewTalents\TestNewTalents\obj\Debug\net6.0\TestNewTalents.csproj.CoreCompileInputs.cache
